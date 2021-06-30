@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OtaApp</string>
+    <string name="digits_rule">ABCDEFabcdef0123456789</string>
+</resources>
